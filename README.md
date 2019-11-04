@@ -6,7 +6,7 @@ I've made a maze generator, that makes use of 5 different generation algorithms.
 - [Can change height and width of the grid](link)
 - [Depth-first Search algorithm](https://en.wikipedia.org/wiki/Depth-first_search)
 - [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm)
-- Binary Tree algorithm
+- [Binary Tree algorithm](https://en.wikipedia.org/wiki/Binary_tree)
 - Side winder algorithm
 - [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
 
@@ -34,5 +34,5 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE1NDU4MDZdfQ==
+eyJoaXN0b3J5IjpbMTgzMzQ5Nzk4Nl19
 -->
