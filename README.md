@@ -15,16 +15,13 @@ I've made a maze generator, that makes use of 5 different generation algorithms.
 ## Software Anaylse 
 I've used Unity for this game. This could be made with almost every language that has graphical possibilities. The game only needs to draw a grid and color in the walls. So most languages / engines / frameworks could have been used. I have used Unity because of the fact that it's a nice work environment and gives me the possibility to polish the game in a better way than other options would allow me.
 
-## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
-
+## Learning Goals
+- Understanding maze algorithms
+- Create a reusable code base
+- Implementing maze algorithms
+- Making use of Unity's 2D LWRP
 ## Planning 
-Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
-
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
+| | monday | tuesday | wed| donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
 |week 1 |
 |week 2 |
@@ -36,5 +33,5 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU4NDM1NTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NTM5NzIxODVdfQ==
 -->
