@@ -3,9 +3,10 @@ I've made a maze generator, that makes use of 5 different generation algorithms.
 
 ## Features
 
-- [Can ](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [Can change height and width of the grid](link)
+- [Depth-first Search algorithm](link)
+- [Prim's algorithm](link)
+- Binar
 
 ## Software Anaylse 
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
@@ -31,5 +32,5 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyOTY2NTI4XX0=
+eyJoaXN0b3J5IjpbLTg5NzM4NTUzNV19
 -->
