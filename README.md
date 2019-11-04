@@ -4,9 +4,11 @@ I've made a maze generator, that makes use of 5 different generation algorithms.
 ## Features
 
 - [Can change height and width of the grid](link)
-- [Depth-first Search algorithm](link)
-- [Prim's algorithm](link)
-- Binar
+- [Depth-first Search algorithm](https://en.wikipedia.org/wiki/Depth-first_search)
+- [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm)
+- Binary Tree algorithm
+- Side winder algorithm
+- [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
 
 ## Software Anaylse 
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
@@ -32,5 +34,5 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzM4NTUzNV19
+eyJoaXN0b3J5IjpbLTIwMzE1NDU4MDZdfQ==
 -->
