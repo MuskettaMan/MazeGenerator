@@ -21,9 +21,9 @@ I've used Unity for this game. This could be made with almost every language tha
 - Implementing maze algorithms
 - Making use of Unity's 2D LWRP
 ## Planning 
-| | monday | tuesday | wed| donderdag | vrijdag |
+| | monday | tuesday | wednesday | thursday | friday |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |
+|week 1 | Setting up project and github | Researching maze algorithms | Making small project to test out implementing algorithms |  | 
 |week 2 |
 
 ## Bronnen
@@ -33,5 +33,5 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM5NzIxODVdfQ==
+eyJoaXN0b3J5IjpbLTEwNzA3ODQ5MDBdfQ==
 -->
