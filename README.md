@@ -24,14 +24,13 @@ I've used Unity for this game. This could be made with almost every language tha
 | | monday | tuesday | wednesday | thursday | friday |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | Setting up project and github | Researching maze algorithms | Making small project to test out implementing algorithms | Start design codebase | Start out with the depth-first search |
-|week 2 | Move onto Prim's algorithm and  | Implementing  |
+|week 2 | Move onto Prim's algorithm and binary tree and sidewinder | Implementing kruskal's algorithm | Polish game by adding character to walk around and implementing 2d LWRP | Upload to portfolio | Upload to portfolio | 
 
-## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
+## Sources
 
-- [The Guide To Game Design](link)
+- [Wi](link)
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDA1Nzg1OV19
+eyJoaXN0b3J5IjpbLTE5Njg3MTE5MzZdfQ==
 -->
