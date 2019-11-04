@@ -7,8 +7,10 @@ I've made a maze generator, that makes use of 5 different generation algorithms.
 - [Depth-first Search algorithm](https://en.wikipedia.org/wiki/Depth-first_search)
 - [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm)
 - [Binary Tree algorithm](https://en.wikipedia.org/wiki/Binary_tree)
-- Side winder algorithm
+- [Side winder algorithm](http://weblog.jamisbuck.org/2011/2/3/maze-generation-sidewinder-algorithm)
 - [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
+- A move-able player, to move along the maze
+- [Lighting setting for polished look](https://docs.unity3d.com/Packages/com.unity.render-pipelines.lightweight@6.7/manual/2d-index.html)
 
 ## Software Anaylse 
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
@@ -34,5 +36,5 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzQ5Nzk4Nl19
+eyJoaXN0b3J5IjpbNzU0OTQ1ODQ1XX0=
 -->
