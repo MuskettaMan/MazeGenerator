@@ -28,9 +28,9 @@ I've used Unity for this game. This could be made with almost every language tha
 
 ## Sources
 
-- [Wi](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [Wikipedia Maze Generation Algorithms](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
+- [Unity Docs 2D LWRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.lightweight@6.7/manual/2d-index.htm)
+- [Hurna](https://hurna.io/academy/algorithms/maze_generator/index.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg3MTE5MzZdfQ==
+eyJoaXN0b3J5IjpbMTAwODk0NTUwM119
 -->
