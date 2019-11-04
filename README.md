@@ -1,10 +1,9 @@
 # MazeGenerator
-I;
+I've made a maze generator, that makes use of 5 different generation algorithms. All the 5 different algorithms work on the same code foundation. It's expandable for more grid-based algorithms.
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Awesome Algoritme](link)
+- [Can ](link)
 - [Specifieke Mechanic](link)
 - [Iets unieks waar je trots op bent binnen de project](link)
 
@@ -32,5 +31,5 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDU1NjkwXX0=
+eyJoaXN0b3J5IjpbNzMyOTY2NTI4XX0=
 -->
