@@ -27,11 +27,11 @@ I've used Unity for this game. This could be made with almost every language tha
 |week 1 | Setting up project and github | Researching maze algorithms | Making small project to test out implementing algorithms | Start design codebase | Start out with the depth-first search |
 |week 2 | Move onto Prim's algorithm and binary tree and sidewinder | Implementing kruskal's algorithm | Polish game by adding character to walk around and implementing 2d LWRP | Upload to portfolio | Upload to portfolio | 
 
-## Sources[^Foot
+## Sources
 
 - [Wikipedia Maze Generation Algorithms](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 - [Unity Docs 2D LWRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.lightweight@6.7/manual/2d-index.htm)
 - [Hurna](https://hurna.io/academy/algorithms/maze_generator/index.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg5NTE2MzQsMTAwODk0NTUwM119
+eyJoaXN0b3J5IjpbLTk0NjMwNTQ3NSwxMDA4OTQ1NTAzXX0=
 -->
