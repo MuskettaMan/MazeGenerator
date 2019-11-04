@@ -13,7 +13,7 @@ I've made a maze generator, that makes use of 5 different generation algorithms.
 - [Lighting setting for polished look](https://docs.unity3d.com/Packages/com.unity.render-pipelines.lightweight@6.7/manual/2d-index.html)
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+I've used Unity for this game. This could be made with almost every language that has graphical possibilities. The game only needs to draw a grid and color in the walls. So most languages / engines 
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
@@ -36,5 +36,5 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0OTQ1ODQ1XX0=
+eyJoaXN0b3J5IjpbLTE2NzgwMjcwNjddfQ==
 -->
