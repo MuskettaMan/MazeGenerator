@@ -23,8 +23,8 @@ I've used Unity for this game. This could be made with almost every language tha
 ## Planning 
 | | monday | tuesday | wednesday | thursday | friday |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | Setting up project and github | Researching maze algorithms | Making small project to test out implementing algorithms |  | 
-|week 2 |
+|week 1 | Setting up project and github | Researching maze algorithms | Making small project to test out implementing algorithms | Start design codebase | Start out with the depth-first search |
+|week 2 | Move onto Prim's algorithm and  | Implementing  |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
@@ -33,5 +33,5 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA3ODQ5MDBdfQ==
+eyJoaXN0b3J5IjpbMTkzMDA1Nzg1OV19
 -->
