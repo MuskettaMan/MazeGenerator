@@ -21,6 +21,9 @@ I've used Unity for this game. This could be made with almost every language tha
 - Create a reusable code base
 - Implementing maze algorithms
 - Making use of Unity's 2D LWRP
+## Reusable code
+For the reusable code, I made use of the Strategy Pattern. This pattern makes use of composition to change algorithms at run-time instead of compile-time.
+
 ## Planning 
 | | monday | tuesday | wednesday | thursday | friday |
 | --- | --- | --- | --- | --- | --- |
@@ -33,6 +36,6 @@ I've used Unity for this game. This could be made with almost every language tha
 - [Unity Docs 2D LWRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.lightweight@6.7/manual/2d-index.htm)
 - [Hurna](https://hurna.io/academy/algorithms/maze_generator/index.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjczNDM1NjQsLTk0NjMwNTQ3NSwxMD
-A4OTQ1NTAzXX0=
+eyJoaXN0b3J5IjpbLTEyMTgwOTcxMzIsLTE1MjczNDM1NjQsLT
+k0NjMwNTQ3NSwxMDA4OTQ1NTAzXX0=
 -->
