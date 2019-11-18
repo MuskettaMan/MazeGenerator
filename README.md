@@ -19,6 +19,8 @@ I've used Unity for this game. This could be made with almost every language tha
 - Making use of Unity's 2D LWRP
 ## Reusable code
 For the reusable code, I made use of the Strategy Pattern. This pattern makes use of composition to change algorithms at run-time instead of compile-time. The Strategy Pattern also promotes loosely-coupled design. I also used adhered to the open closed principle, that way my code stays maintainable, debug-able and clean.
+
+My plan is to create a utility class that contains all the algorithms. The signature of all the methods will stay the same so I can use a delegate. Then that delegate invokes on the main grid to transform it 
 ## Planning 
 | | monday | tuesday | wednesday | thursday | friday |
 | --- | --- | --- | --- | --- | --- |
@@ -29,6 +31,6 @@ For the reusable code, I made use of the Strategy Pattern. This pattern makes us
 - [Unity Docs 2D LWRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.lightweight@6.7/manual/2d-index.htm)
 - [Hurna](https://hurna.io/academy/algorithms/maze_generator/index.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzM3MjQ2MiwtMTUyNzM0MzU2NCwtOT
-Q2MzA1NDc1LDEwMDg5NDU1MDNdfQ==
+eyJoaXN0b3J5IjpbLTYzMDEzODM5NiwxMjI3MzcyNDYyLC0xNT
+I3MzQzNTY0LC05NDYzMDU0NzUsMTAwODk0NTUwM119
 -->
