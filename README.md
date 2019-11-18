@@ -20,7 +20,7 @@ I've used Unity for this game. This could be made with almost every language tha
 ## Reusable code
 For the reusable code, I made use of the Strategy Pattern. This pattern makes use of composition to change algorithms at run-time instead of compile-time. The Strategy Pattern also promotes loosely-coupled design. I also used adhered to the open closed principle, that way my code stays maintainable, debug-able and clean.
 
-My plan is to create a utility class that contains all the algorithms. The signature of all the methods will stay the same so I can use a delegate. Then that delegate invokes on the main grid to transform it in to the maze. Every maze contains a cell with 4 cells, that will get in my way later. Because then between every cell are 2 walls, that's illogical and will get in my way later with the kruskal algorithm. To solve this I will instaniate the entire
+My plan is to create a utility class that contains all the algorithms. The signature of all the methods will stay the same so I can use a `delegate`. Then that delegate invokes on the main grid to transform it in to the maze. Every maze contains a cell with 4 cells, that will get in my way later. Because then between every cell are 2 walls, that's illogical and will get in my way later with the kruskal algorithm. To solve this I will instantiate all the cells with their walls referencing null. Then I can one by one instantiate their walls and reference each other walls to create grid where between every cell only exists one wall.
 ## Planning 
 | | monday | tuesday | wednesday | thursday | friday |
 | --- | --- | --- | --- | --- | --- |
@@ -31,6 +31,6 @@ My plan is to create a utility class that contains all the algorithms. The signa
 - [Unity Docs 2D LWRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.lightweight@6.7/manual/2d-index.htm)
 - [Hurna](https://hurna.io/academy/algorithms/maze_generator/index.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE3MDE1MjMsMTIyNzM3MjQ2MiwtMT
-UyNzM0MzU2NCwtOTQ2MzA1NDc1LDEwMDg5NDU1MDNdfQ==
+eyJoaXN0b3J5IjpbLTYwNTE1NzU2OSwxMjI3MzcyNDYyLC0xNT
+I3MzQzNTY0LC05NDYzMDU0NzUsMTAwODk0NTUwM119
 -->
